@@ -1,0 +1,22 @@
+# Model files and caches
+adapters/0000100_adapters.safetensors
+adapters/0000200_adapters.safetensors
+*.safetensors
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# MacOS
+.DS_Store
+
+# Large dataset
+Spider2/
+
+# Hugging Face cache
+.cache/
+
+# Environment
+venv/
+env/
